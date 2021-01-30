@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
+// import logo from "./logo.svg";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 import NavBar from "./components/NavBar";
 import Header from "./components/Header";
@@ -22,7 +22,7 @@ import "./App.css";
 //       </p>
 //     </div>
 //   );
-// }
+
 
 class App extends Component {
 
